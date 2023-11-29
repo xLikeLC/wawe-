@@ -120,7 +120,7 @@ font-family: "Raleway", serif;
 /* Header  */
 
 .header {
-  background-image: url(../images/bg.jpg);
+  background-image: url("../images/bg.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

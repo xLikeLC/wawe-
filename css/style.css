@@ -614,7 +614,7 @@ ul.pricing__item {
 
 .map__place {
   height: 600px;
-  background-image: url("../images/map.jpg");
+  background-image: url("../images/map.jpg")
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
